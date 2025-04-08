@@ -18,7 +18,7 @@
 
 ### 方法1：直接运行可执行文件
 
-1. 从发布页面下载最新的可执行文件（dist/image_duplicate_finder_gui.exe）
+1. 从发布页面（本项目主页右侧releases处）下载最新的可执行文件（image_duplicate_finder_gui.exe）
 2. 双击运行即可使用，无需安装其他依赖
 
 ### 方法2：从源码运行
